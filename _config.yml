@@ -1,7 +1,7 @@
 name: Cush Collective
 favicon: null
 layout_spectrum: 0.6163478910457343
-typography_spectrum: 0.303702738834545
+typography_spectrum: 0.90191
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6029940857551992
-  lightness: 0.366863684495911
+    - '#ffffff'
+    - '#000000'
+    - '#919191'
+    - '#c3c3c3'
+    - '#3f3f3f'
+  brandStrength: 0.6875
+  lightness: 0.375
   saturation: 0.6511861439794302
-  rhythmicContrast: 0.18901257263496518
+  rhythmicContrast: 0.25
 purpose: []
