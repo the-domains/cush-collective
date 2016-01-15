@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cush Collective]]></title>
-        <description><![CDATA[Cush Collective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Quality Bicycle Accessory Distribution and Manufacturing   ]]></title>
+        <description><![CDATA[Quality Bicycle Accessory Distribution and Manufacturing   ]]></description>
+        <link>https://thegrid.ai/cush-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 23:56:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 00:11:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cush-collective/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Alligator Cables are the best in the world! </p>]]></description>
-            <link>undefined437afc04-2510-4af1-8ae5-4b5282f7fa1b/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/173d785d-4217-4a90-a015-fb65f514d9e8.jpg">]]></description>
+            <link>https://thegrid.ai/cush-collective/437afc04-2510-4af1-8ae5-4b5282f7fa1b/index.html</link>
             <guid isPermaLink="false">437afc04-2510-4af1-8ae5-4b5282f7fa1b</guid>
-            <pubDate>Thu, 14 Jan 2016 23:56:25 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 00:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
