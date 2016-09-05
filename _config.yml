@@ -1,20 +1,4 @@
-name: Cush Collective
-favicon: null
-layout_spectrum: 0.6163478910457343
 typography_spectrum: 0.90191
-title: Cush Collective
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#030102'
@@ -26,4 +10,25 @@ color:
   lightness: 0.375
   saturation: 0.6511861439794302
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6163478910457343
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Andy Yee
+  email: sales@cushcollective.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8da7893-f1f4-48b7-b86c-a279787fae71.jpg
+name: Cush Collective
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Quality Bicycle Accessories
 purpose: []
